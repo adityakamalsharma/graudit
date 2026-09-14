@@ -14,3 +14,4 @@ SecurityPermission.SerializationFormatter
 SecurityPermission.ControlPrincipal
 SecurityPermission.ControlDomainPolicy
 SecurityPermission.ControlPolicy
+context.User
