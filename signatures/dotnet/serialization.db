@@ -9,3 +9,6 @@ JsonSerializer
 JsonSerializerSettings
 DeserializeObject
 ISerializable
+XmlSerializer
+Deserialize
+LoadXml
